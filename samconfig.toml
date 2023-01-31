@@ -36,4 +36,4 @@ parameter_overrides = "Stage=\"production\""
 image_repositories = []
 confirm_changeset = true
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-ui4bvm5jtxh1"
-
+disable_rollback = true
